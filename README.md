@@ -28,7 +28,7 @@ To help build our data visualizations and dashboard.
 
 ## 3. Dashboard Creation (Using a Slicer)
 
-
+I compiled all of the data visualizations and used a Slicer to make it interactive.
 
 <br><br>
 
