@@ -12,10 +12,10 @@
 ### Steps I did:
 
 ## 1. Data Cleaning
-  - Remove duplicates
+  - Checked and removed duplicates
   - Find and replace some confusing data to make it clearer
-  - Created a new column called the 'Age Brackets' column
-  - **Nested IF Statements** on the 'Age Brackets' column
+  - Created a new column called the 'Age Brackets' column (for easier visualization)
+  - Created **Nested IF Statements** on the 'Age Brackets' column
 
 <br>
 
@@ -28,7 +28,7 @@ To help build our data visualizations and dashboard.
 
 ## 3. Dashboard Creation (Using a Slicer)
 
-I compiled all of the data visualizations and used a Slicer to make it interactive.
+I compiled all of the data visualizations and used a Slicer to make it interactive and turned it into a Dashboard.
 
 <br><br>
 
