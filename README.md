@@ -6,7 +6,6 @@
 
 **Bike Sales Dashboard** 
 
-**Simple Excel project on Data Cleaning and Dashboard Creation**
 
 <br>
 
