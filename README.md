@@ -1,5 +1,5 @@
-# Excel Project Dataset 
-## By Gino Freud D. Hobayan
+## Simple Excel Project on Data Cleaning and Dashboard Creation
+### By Gino Freud D. Hobayan
 
 <img width="555" alt="Bike Sales Dashboard" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/4678f950-ffbe-4a6d-8974-6d4c034592f7">
 
