@@ -13,7 +13,7 @@ Excel Project Dataset from Alex the Analyst Youtube Channel
 
 
 
-# **Data Cleaning**
+# **1. Data Cleaning**
 
   - Made a new sheet called "Working Sheet" so I can always come back to the original raw data
 
@@ -77,6 +77,10 @@ To help build our data visualizations and dashboard.
 I compiled all of the data visualizations and used a Slicer to make it interactive/dynamic and turned it into a Dashboard.
 
 <img width="953" alt="6  Import Slicer - for all Pivot tables" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/9dd86a79-0883-4b66-96a2-74996a236558">
+
+<br><br>
+
+### **FINAL OUTPUT:**
 
 <img width="553" alt="Bike Sales Dashboard img" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/0e00df87-c4f6-40f4-8cd8-b559ad84ff58">
 
