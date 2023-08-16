@@ -6,15 +6,43 @@
 
 **Bike Sales Dashboard** 
 
+Excel Project Dataset from Alex the Analyst Youtube Channel
+
+
+<br><br><br>
+
+
+
+# **Data Cleaning**
+
+  - Made a new sheet called "Working Sheet" so I can always come back to the original raw data
 
 <br>
 
-### Steps I did:
 
-## 1. Data Cleaning
+
   - Checked and removed duplicates
+<img width="954" alt="1  Remove duplicates" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/c1d097c7-8211-484f-8c01-005198b275ee">
+
+
+
+<br><br>
+
+
+
   - Find and replace some confusing data to make it clearer
-  - Created a new column called the 'Age Brackets' column (for easier visualization)
+<img width="955" alt="2  Rename the data - to avoid confusion" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/fde75a78-9c5a-47af-b797-2ab2c44d0447">
+<img width="952" alt="2  Rename the data - DONE" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/e7b0d3ad-f9c0-419b-ab4c-776d1ae0ada0">
+
+
+
+<br><br>
+
+
+  - Created a new column called the 'Age Brackets' column (for easier visualization and to categorize the ages)
+
+<br>
+
   - Created **Nested IF Statements** on the 'Age Brackets' column
 <img width="713" alt="Nested IF Statements" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/b9539601-9b13-4a38-95dc-7d1835eac26b">
 
@@ -48,12 +76,13 @@ To help build our data visualizations and dashboard.
 
 I compiled all of the data visualizations and used a Slicer to make it interactive/dynamic and turned it into a Dashboard.
 
+<img width="953" alt="6  Import Slicer - for all Pivot tables" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/9dd86a79-0883-4b66-96a2-74996a236558">
+
 <img width="553" alt="Bike Sales Dashboard img" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/0e00df87-c4f6-40f4-8cd8-b559ad84ff58">
 
 
 <br><br>
 
 
-Excel Project Dataset from Alex the Analyst Youtube Channel
 
 
