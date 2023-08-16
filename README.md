@@ -1,7 +1,7 @@
 ## Simple Excel Project on Data Cleaning and Dashboard Creation
 ### By Gino Freud D. Hobayan
 
-<img width="555" alt="Bike Sales Dashboard" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/4678f950-ffbe-4a6d-8974-6d4c034592f7">
+<img width="924" alt="Final Bike Sales Dashboard" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/d395f111-106f-467a-b2ec-415d2d899118">
 
 
 **Bike Sales Dashboard** 
@@ -67,6 +67,25 @@ To help build our data visualizations and dashboard.
 <img width="821" alt="Pivot table3" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/c79250b7-ab28-4b72-87e2-668fdb892f36">
 
 
+<br><br><br>
+
+
+## Static Data Visualizations:
+
+I also made a few static data visualizations so that we can derive more insights from our bike data.
+
+<br>
+
+<img width="755" alt="Purchased bikes per customer age brackets" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/e8af1a2d-d92d-4706-b76e-29c8064779a6">
+
+
+<br><br>
+
+<img width="731" alt="Purchased bikes per Region" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/ec507bd6-7db0-484e-8387-548e7c11bbb2">
+
+
+
+
 
 <br><br><br><br>
 
@@ -82,7 +101,8 @@ I compiled all of the data visualizations and used a Slicer to make it interacti
 
 ### **FINAL OUTPUT:**
 
-<img width="553" alt="Bike Sales Dashboard img" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/0e00df87-c4f6-40f4-8cd8-b559ad84ff58">
+<img width="924" alt="Final Bike Sales Dashboard" src="https://github.com/Gino-Freud-Hobayan/Excel_Project_Dataset_Gino/assets/117270964/272662de-6114-4a1a-b063-391458b2de38">
+
 
 
 <br><br>
