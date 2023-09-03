@@ -15,7 +15,9 @@ Excel Project Dataset from Alex the Analyst Youtube Channel
 
 # **1. Data Cleaning**
 
-  - Made a new sheet called "Working Sheet" so I can always come back to the original raw data
+  - Made a new sheet called "Working Sheet" so I can always come back to the original raw data 
+
+    (Just like creating a BACKUP Database on SQL)
 
 <br>
 
